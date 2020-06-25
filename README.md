@@ -12,3 +12,5 @@ so I can use the plugins you create instead.
 
 File an issue on what you would like to learn about on writing vim plugins in lua
 or an idea on a vim plugin and hopefully I will be able to to help you out.
+
+For compaitiblitity issues please refer to https://github.com/neovim/neovim/issues/12537
